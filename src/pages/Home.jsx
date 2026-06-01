@@ -1,5 +1,5 @@
 import MovieCard from "../components/MovieCard";
-
+import "../css/Home.css"
 import React, { useState } from 'react'
 
 export default function Home() {
